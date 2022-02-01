@@ -1,0 +1,23 @@
+.container-progress {
+  height: 4rem;
+  width: 100%;
+  background-color: rgb(226, 245, 253);
+  margin: 0 auto;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+  .step-button {
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    border: 2px solid #00f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px;
+    cursor: pointer;
+  }
+}

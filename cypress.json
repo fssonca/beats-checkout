@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "ignoreTestFiles": ["**/examples/*", "**/1-getting-started/*", "**/2-advanced-examples/*"],
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "chromeWebSecurity": false
+}

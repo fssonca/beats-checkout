@@ -1,0 +1,17 @@
+.delivery-details {
+  .box-row {
+    padding: 10px 5px;
+
+    .info-input {
+      min-width: 15rem;
+    }
+
+    .info-input:first-child {
+      margin-right: 10px;
+    }
+
+    .max-width {
+      width: calc(30rem + 10px);
+    }
+  }
+}
